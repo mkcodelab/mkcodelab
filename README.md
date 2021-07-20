@@ -1,5 +1,6 @@
-Hello there, I’m @mkcodelab
-Mostly Canvas Projects here!
+-Hello there, I’m @mkcodelab.
+
+-Mostly Canvas Projects here!
 
 You can always mail me : michal.kulawik@gmail.com
 
