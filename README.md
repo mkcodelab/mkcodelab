@@ -1,4 +1,4 @@
-<h1>Hello there, I’m @mkcodelab 🧪.
+<h1>Hello there, I’m mkcodelab 🧪.
   AKA ✨Gerhok✨</h1>
   
 Language: JavaScript,
