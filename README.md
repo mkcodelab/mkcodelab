@@ -1,7 +1,7 @@
 <h1>Hello there, I’m mkcodelab 🧪.
   AKA ✨Gerhok✨</h1>
   
-Language: JavaScript,
+Constantly exploring vast & endless space of JavaScript...
 
 Mostly Canvas Projects here!
 
