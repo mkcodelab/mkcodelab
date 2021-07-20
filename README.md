@@ -1,7 +1,8 @@
--Hello there, I’m @mkcodelab.
+Hello there, I’m @mkcodelab.
 
--Mostly Canvas Projects here!
+Mostly Canvas Projects here!
 
+Some Games, Generative Art, Animations, and webapps...
 You can always mail me : michal.kulawik@gmail.com
 
 <!---
