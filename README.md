@@ -1,5 +1,7 @@
 <h1>Hello there, I’m @mkcodelab 🧪.
-  AKA ✨<span style="color:limegreen;font-family:papyrus;">Gerhok</span>✨</h1>
+  AKA ✨Gerhok✨</h1>
+  
+Language_i_use: JavaScript,
 
 Mostly Canvas Projects here!
 
