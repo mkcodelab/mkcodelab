@@ -1,5 +1,4 @@
-<h1>Hello there, I’m mkcodelab 🧪.
-  AKA Gerhok</h1>
+<h1>Hello there, I’m mkcodelab 🧪</h1>
   
 Constantly exploring vast & endless space of ✨JavaScript✨...
 
