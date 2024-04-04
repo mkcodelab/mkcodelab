@@ -2,7 +2,7 @@
   
 Constantly exploring vast & endless space of ✨JavaScript✨...
 
-Mostly Canvas Projects here!
+Also using Typescript and Angular.
 
 Some Games, Generative Art, Animations, and webapps...
 You can always mail me : michal.kulawik@gmail.com
