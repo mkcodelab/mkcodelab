@@ -4,6 +4,8 @@ Constantly exploring vast & endless space of ✨JavaScript✨...
 
 Also using Typescript and Angular.
 
+Three.js enthusiast
+
 Some Games, Generative Art, Animations, and webapps...
 You can always mail me : michal.kulawik@gmail.com
 
